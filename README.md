@@ -108,7 +108,7 @@
 <ul>
   <li><code>FinishedLoanRisk.ipynb</code> -> Full Google Colab Notebook</li>
   <li><code>README.md</code> -> This file</li>
-  <li><code>xgb_model.pkl</code> -> Full Google Colab Notebook</li>
+  <li><code>xgb_model.pkl</code> -> Trained model</li>
 </ul>
 
 <hr>
