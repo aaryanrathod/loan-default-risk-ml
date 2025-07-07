@@ -119,7 +119,8 @@
 <pre><code>pip install -r requirements.txt</code></pre>
 
 <h4> Libraries Used:</h4>
-<pre><code>pandas
+<pre><code>streamlit
+pandas
 numpy
 scikit-learn
 xgboost
