@@ -4,10 +4,10 @@ import pickle
 import numpy as np
 
 # Load scaler and model
-with open("/content/drive/MyDrive/scaler.pkl", "rb") as f:
+with open("scaler.pkl", "rb") as f:
     scaler = pickle.load(f)
 
-with open("/content/drive/MyDrive/xgb_model.pkl", "rb") as f:
+with open("xgb_model.pkl", "rb") as f:
     model = pickle.load(f)
 
 st.set_page_config(page_title="Loan Default Risk Predictor", layout="centered")
