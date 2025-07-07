@@ -12,7 +12,7 @@ with open("xgb_model.pkl", "rb") as f:
 
 st.set_page_config(page_title="Loan Default Risk Predictor", layout="centered")
 
-st.title("💸 Loan Default Risk Prediction")
+st.title(" Loan Default Risk Prediction")
 st.markdown("Enter loan application details to predict risk of default.")
 
 # Define input fields
